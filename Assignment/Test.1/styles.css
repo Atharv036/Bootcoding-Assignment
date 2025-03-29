@@ -1,0 +1,66 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.circle{
+    width: 50px;
+    height: 50px;
+    margin-left: 8px;
+    border-radius: 50%;
+}
+
+table{
+    border: none;
+    border-spacing: 0;
+    padding: 10px;
+    width: 500px;
+}
+
+td{
+    padding: 10px;
+}
+
+.description{
+    font-size: 12px;
+}
+
+th{
+    padding: 10px;
+}
+
+.heading{
+    font-size: 18px;
+}
+
+#gold{
+    background-color: gold;
+}
+
+#silver{
+    background-color: silver;
+}
+
+#bronze{
+    background-color: #CD7F32;
+}
+
+#rhodium{
+    background-color: #E2E7E1;
+}
+
+#platinum{
+    background-color: #E5E4E2;
+}
+
+#star{
+    background-color: black;
+}
+
+#tableTitle{
+    
+    font-size: 22px;
+}
+
+.alternate_row{
+    background-color:lightgreen;
+}
