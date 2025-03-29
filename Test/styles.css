@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    text-align: center;
+    padding: 50px;
+}
+
+
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.description {
+    font-size: 16px;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.buttons {
+    margin: 20px 0;
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.white {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
+
+.contact {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.address {
+    font-size: 14px;
+    color: black;
+    
+}
